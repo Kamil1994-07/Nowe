@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+}
+.card-table {
+    width: 100%;
+    border-spacing: 0;
+}
+.card-table th,td {
+    border: 1px solid #e5e5e5;
+    padding: 10px;
+}
+.card-table th {
+    background-color: #ededed;
+}
